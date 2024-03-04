@@ -3,7 +3,7 @@
 
 I'm Utkarsh!
 
-I'm a Data Scientist currently working at StatusNeo. I'm currently conducting research in Neurocomputing and NLP. My personal repositories consist of the research projects I've worked on and several industrial projects I've done at various organizations. 
+I'm currently working as a Data Engineer at Amazon. I'm currently conducting research in Neurocomputing and NLP. My personal repositories consist of the research projects I've worked on and several industrial projects I've done at various organizations. 
 
 - :page_facing_up: My Research Papers - [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=i6Xv6PIAAAAJ)
 - 📫 How to find me: 
